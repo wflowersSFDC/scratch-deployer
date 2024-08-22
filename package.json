@@ -1,0 +1,19 @@
+{
+  "name": "scratch-deployer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@salesforce/core": "^8.4.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsforce": "^3.4.1",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
